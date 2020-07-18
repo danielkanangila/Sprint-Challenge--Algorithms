@@ -124,7 +124,7 @@ class SortingRobot:
                     self.swap_item()
                     break
 
-            # reset the pointer to right
+            # reset the pointer
             self.move_right()
 
         # put back in place the last card
